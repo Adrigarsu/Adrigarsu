@@ -1,140 +1,26 @@
-<!-- Banner animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Adrigarsu&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%40%20UniOvi&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
-</div>
+<a href="https://github.com/Adrigarsu">
+  <img src="assets/hero.svg" width="100%" alt="Adri García Suárez. Estudiante de Ingeniería Informática del Software en la Universidad de Oviedo.">
+</a>
 
-<!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+progress...;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Python+%7C+MATLAB+%7C+R+%7C+MongoDB+%7C+SQL;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+Soy Adri. Estudio Ingeniería Informática del Software en la Universidad de Oviedo y, mientras tanto, construyo cosas que se puedan usar: desde el diseño en Figma hasta el despliegue. Me gusta cuidar la arquitectura, la accesibilidad y el detalle.
 
-<br/>
+## En qué ando
 
-<!-- About me en HTML para que renderice bien -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <pre><code>&gt; whoami
-  Adri García Suárez — Adrigarsu
-  Estudiante de Ingeniería Informática de Software @ Universidad de Oviedo
-  Intereses: Full-Stack · Arquitectura de Software · Data · DevOps
-  Estado: Aprendiendo cada día | Open to collaborate</code></pre>
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <a href="https://github.com/Adrigarsu/hoem"><img src="assets/hoem.svg" width="49%" alt="HØEM: la casa en un solo sitio, con comidas, compra, gastos y recordatorios compartidos. En producción en hoemapp.com. Next.js, React, TypeScript y Supabase."></a>
+  <a href="https://github.com/Adrigarsu/valserra"><img src="assets/valserra.svg" width="49%" alt="Valserra: una estación de esquí ficticia, 2.263 metros de descenso contados con scroll. En construcción. Astro, TypeScript, React y GSAP."></a>
+</p>
+<p>
+  <a href="https://github.com/Adrigarsu/lexis"><img src="assets/lexis.svg" width="49%" alt="Lexis: PWA gratuita para estudiar chino HSK 1 con repetición espaciada y orden de los trazos. En diseño. React, TypeScript, Dexie y Supabase."></a>
+  <a href="https://github.com/Adrigarsu/Ping-Atlas"><img src="assets/pingatlas.svg" width="49%" alt="PingAtlas: pings y traceroutes por todo el mundo, dibujados en un mapa de latencia con histórico. Autoalojable. Python, FastAPI, React y Docker."></a>
+</p>
 
-<br/>
+También por aquí: [yovi_en2c](https://github.com/Arquisoft/yovi_en2c), un juego de estrategia hecho en equipo con React, Rust y Node.js; [Farmland](https://github.com/Adrigarsu/farmland), un juego de granja en Godot; [pokemon](https://github.com/Adrigarsu/pokemon), un sistema de combate en Java; y [LearnCpp](https://github.com/Adrigarsu/LearnCpp), mis proyectos siguiendo *A Tour of C++*.
 
----
+## Con qué trabajo
 
-## 🛠️ Tech Stack
+<img src="assets/stack.svg" width="100%" alt="Tecnologías con las que trabajo: TypeScript, React, Next.js, Astro, Tailwind CSS, Supabase, GSAP, Vite, Java, Spring Boot, Python, FastAPI, Node.js, PostgreSQL, MongoDB, Docker, C++, Rust, C, Linux, Git, GitHub Actions, Cloudflare y Godot.">
 
-**Backend**
+## Hablamos
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Bases de datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Networking**
-
-![Cloudflare](https://img.shields.io/badge/DNS_&_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cisco](https://img.shields.io/badge/Routers_&_Switches-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Systems & Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![ANTLR](https://img.shields.io/badge/ANTLR-EF3D55?style=for-the-badge&logo=antlr&logoColor=white)
-
-**Data & Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Other**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adrigarsu&theme=github_dark" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrigarsu&theme=github_dark" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adrigarsu&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrigarsu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=161b22&hide_border=true" alt="Activity Graph" width="95%"/>
-</div>
-
----
-
-## 📌 Proyectos destacados
-
-| Proyecto | Stack | Descripción |
-|----------|-------|-------------|
-| [yovi_en2c](https://github.com/Arquisoft/yovi_en2c) | React · Rust · Node.js · MongoDB | Plataforma de juego estratégico — Arquitectura de Software |
-| [OOP Pokemon](https://github.com/Adrigarsu/pokemon) | Java | Pokemon combat system develop with Java OOP |
-| [Farmland](https://github.com/Adrigarsu/farmland) | GDScript | Farming game develop with Godot |
-| [LearnC++](https://github.com/Adrigarsu/LearnCpp) | C++ | Learn C++ through  projects based on "A Tour of C++" 3rd ed |
-| [Shell C++](https://github.com/Adrigarsu/shell-cpp) | C++ | My own shell in C++ developed woth codecrafter exercises |
-
-
----
-
-## 📬 Contacto
-
-<div align="center">
-  <a href="mailto:adrigarsu269@gmail.com">
-    <img src="https://img.shields.io/badge/adrigarsu269@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Adrigarsu">
-    <img src="https://img.shields.io/badge/Adrigarsu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Adrigarsu"/>
-  </a>
-</div>
-
-<!-- Footer wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
-</div>
+Escríbeme a [adrigarsu269@gmail.com](mailto:adrigarsu269@gmail.com) o pásate por [hoemapp.com](https://hoemapp.com) y [Valserra](https://adrigarsu.github.io/valserra/) para ver lo último en lo que trabajo.
