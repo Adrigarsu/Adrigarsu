@@ -1,26 +1,26 @@
 <a href="https://github.com/Adrigarsu">
-  <img src="assets/hero.svg" width="100%" alt="Adri García Suárez. Estudiante de Ingeniería Informática del Software en la Universidad de Oviedo.">
+  <img src="assets/hero.svg" width="100%" alt="Adrigarsu. Software engineering student at the University of Oviedo.">
 </a>
 
-Soy Adri. Estudio Ingeniería Informática del Software en la Universidad de Oviedo y, mientras tanto, construyo cosas que se puedan usar: desde el diseño en Figma hasta el despliegue. Me gusta cuidar la arquitectura, la accesibilidad y el detalle.
+I'm Adri, a software engineering student at the University of Oviedo. I build web products end to end, from the Figma file to the deploy, and I care about architecture, accessibility and detail.
 
-## En qué ando
+## Recent work
 
 <p>
-  <a href="https://github.com/Adrigarsu/hoem"><img src="assets/hoem.svg" width="49%" alt="HØEM: la casa en un solo sitio, con comidas, compra, gastos y recordatorios compartidos. En producción en hoemapp.com. Next.js, React, TypeScript y Supabase."></a>
-  <a href="https://github.com/Adrigarsu/valserra"><img src="assets/valserra.svg" width="49%" alt="Valserra: una estación de esquí ficticia, 2.263 metros de descenso contados con scroll. En construcción. Astro, TypeScript, React y GSAP."></a>
+  <a href="https://github.com/Adrigarsu/hoem"><img src="assets/hoem.svg" width="49%" alt="HØEM: household management in one place, with meals, shopping, expenses and reminders. Live at hoemapp.com. Next.js, React, TypeScript and Supabase."></a>
+  <a href="https://github.com/Adrigarsu/valserra"><img src="assets/valserra.svg" width="49%" alt="Valserra: a fictional ski resort told through scroll, a 2,263 m descent from summit to village. In progress. Astro, TypeScript, React and GSAP."></a>
 </p>
 <p>
-  <a href="https://github.com/Adrigarsu/lexis"><img src="assets/lexis.svg" width="49%" alt="Lexis: PWA gratuita para estudiar chino HSK 1 con repetición espaciada y orden de los trazos. En diseño. React, TypeScript, Dexie y Supabase."></a>
-  <a href="https://github.com/Adrigarsu/Ping-Atlas"><img src="assets/pingatlas.svg" width="49%" alt="PingAtlas: pings y traceroutes por todo el mundo, dibujados en un mapa de latencia con histórico. Autoalojable. Python, FastAPI, React y Docker."></a>
+  <a href="https://github.com/Adrigarsu/lexis"><img src="assets/lexis.svg" width="49%" alt="Lexis: free PWA to study HSK 1 Chinese with spaced repetition and stroke order. In design. React, TypeScript, Dexie and Supabase."></a>
+  <a href="https://github.com/Arquisoft/yovi_en2c"><img src="assets/yovi.svg" width="49%" alt="YOVI: online platform for Game Y, a strategy board game where you connect all three sides to win. Team project at the University of Oviedo. React, Rust, Node.js and MongoDB."></a>
 </p>
 
-También por aquí: [yovi_en2c](https://github.com/Arquisoft/yovi_en2c), un juego de estrategia hecho en equipo con React, Rust y Node.js; [Farmland](https://github.com/Adrigarsu/farmland), un juego de granja en Godot; [pokemon](https://github.com/Adrigarsu/pokemon), un sistema de combate en Java; y [LearnCpp](https://github.com/Adrigarsu/LearnCpp), mis proyectos siguiendo *A Tour of C++*.
+Also here: [PingAtlas](https://github.com/Adrigarsu/Ping-Atlas), a self-hosted latency map built on pings and traceroutes; [Farmland](https://github.com/Adrigarsu/farmland), a farming game made with Godot; [pokemon](https://github.com/Adrigarsu/pokemon), a combat system in Java; and [LearnCpp](https://github.com/Adrigarsu/LearnCpp), my projects following *A Tour of C++*.
 
-## Con qué trabajo
+## Stack
 
-<img src="assets/stack.svg" width="100%" alt="Tecnologías con las que trabajo: TypeScript, React, Next.js, Astro, Tailwind CSS, Supabase, GSAP, Vite, Java, Spring Boot, Python, FastAPI, Node.js, PostgreSQL, MongoDB, Docker, C++, Rust, C, Linux, Git, GitHub Actions, Cloudflare y Godot.">
+<img src="assets/stack.svg" width="100%" alt="Technologies I work with. frontend: TypeScript, JavaScript, HTML5, CSS, React, Next.js, Astro, Tailwind CSS, GSAP, Vite, Leaflet. testing and quality: Vitest, Playwright, Testing Library, axe-core, pytest, ESLint, Prettier, SonarCloud. backend: Java, Spring Boot, Spring Cloud Gateway, Thymeleaf, Node.js, Express, FastAPI. databases: PostgreSQL, MySQL, MongoDB, Supabase, Drizzle ORM, SQLAlchemy. systems and languages: C, C++, Rust, ANTLR. devops: Docker, GitHub Actions, Git, Linux, nginx, Cloudflare, Prometheus, Grafana, pnpm. networking: DNS and tunnels, Routers and switches, Scapy. data and scripting: Python, MATLAB, R, Excel. design and games: Figma, Unity, Godot.">
 
-## Hablamos
+## Contact
 
-Escríbeme a [adrigarsu269@gmail.com](mailto:adrigarsu269@gmail.com) o pásate por [hoemapp.com](https://hoemapp.com) y [Valserra](https://adrigarsu.github.io/valserra/) para ver lo último en lo que trabajo.
+Write to me at [adrigarsu269@gmail.com](mailto:adrigarsu269@gmail.com), or visit [hoemapp.com](https://hoemapp.com) and [Valserra](https://adrigarsu.github.io/valserra/) to see what I'm working on.
